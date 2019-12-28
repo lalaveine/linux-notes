@@ -13,3 +13,9 @@ pdfjam --outfile  out.pdf --paper a4paper in.pdf
 ```
 convert file1.jpg file.png *.pdf out.pdf
 ```
+
+### Show information about pdf file
+
+```
+pdfinfo file.pdf
+```
