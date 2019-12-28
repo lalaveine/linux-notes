@@ -8,3 +8,8 @@
 pdfjam --outfile  out.pdf --paper a4paper in.pdf
 ```
 
+### Create pdf from images
+
+```
+convert file1.jpg file.png *.pdf out.pdf
+```
